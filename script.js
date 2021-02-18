@@ -5,5 +5,6 @@ keys.forEach(key => {
 })
 
 function playNote(key) {
-    
+    const noteAudio = document.getElementById(key.dataset.note)
+    noteAudio.play()
 }
