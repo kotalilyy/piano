@@ -3,7 +3,7 @@
   }
   
 body {
-    background-color: #143F6B;
+    background-color: #3da28a;
     margin: 0;
     min-height: 100vh;
     display: flex;
@@ -36,4 +36,8 @@ body {
     margin-left: calc(var(--width) / -2);
     margin-right: calc(var(--width) / -2);
     z-index: 2;
+}
+
+.black.active {
+    background-color: #333;
 }
