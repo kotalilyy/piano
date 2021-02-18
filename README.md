@@ -10,7 +10,7 @@ Simple and fun Piano created using
 
 
 ## Live Link
-
+https://kotalilyy.github.io/JavaScript-Piano/
 
 ## Screenshot 
 
