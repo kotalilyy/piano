@@ -1,19 +1,19 @@
 # JavaScript Piano
 
-Simple and fun Piano created using
+Play the piano with this app
 
-* HTML
+## Usage
 
-* CSS
+[Click here for the live link](https://kotalilyy.github.io/JavaScript-Piano/)
 
-* JavaScript
+## Credits
 
+[Tutorial](https://www.youtube.com/watch?v=vjco5yKZpU8) by [@WebDevSimplified](https://github.com/WebDevSimplified/JavaScript-Piano)
 
-## Live Link
-https://kotalilyy.github.io/JavaScript-Piano/
+## Contributions
 
-## Screenshot 
+Created ❤️ with by Dakota Nelson
 
-<img width="360" alt="Screen Shot 2021-02-18 at 2 25 08 PM" src="https://user-images.githubusercontent.com/77229281/108417197-472d2800-71f5-11eb-8d01-fe53f90e7000.png">
+_Happy Coding!_
 
 
