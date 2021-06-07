@@ -1,10 +1,10 @@
 # JavaScript Piano
 
-Play the piano with this app
+Play the piano with this app!
 
 ## Usage
 
-[Click here for the live link](https://kotalilyy.github.io/JavaScript-Piano/)
+[live link](https://kotalilyy.github.io/JavaScript-Piano/)
 
 ## Credits
 
@@ -13,6 +13,10 @@ Play the piano with this app
 ## Contributions
 
 Created ❤️ with by Dakota Nelson
+
+## Questions
+
+<a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 _Happy Coding!_
 
