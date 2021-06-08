@@ -4,7 +4,7 @@ Play the piano with this app!
 
 ## Usage
 
-[live link](https://kotalilyy.github.io/JavaScript-Piano/)
+[live link](https://kotalilyy.github.io/piano/) 
 
 ## Credits
 
