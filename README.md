@@ -1,14 +1,14 @@
 # JavaScript Piano
 
-Play the piano with this app!
+Play this tiny piano with this app!
 
-## Usage
+## Live Link
 
-[live link](https://kotalilyy.github.io/piano/) 
+[play](https://kotalilyy.github.io/piano/) 
 
 ## Credits
 
-[Tutorial](https://www.youtube.com/watch?v=vjco5yKZpU8) by [@WebDevSimplified](https://github.com/WebDevSimplified/JavaScript-Piano)
+[Tutorial](https://www.youtube.com/watch?v=vjco5yKZpU8) by @[WebDevSimplified](https://github.com/WebDevSimplified/JavaScript-Piano)
 
 ## Contributions
 
