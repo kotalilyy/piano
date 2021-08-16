@@ -1,4 +1,7 @@
-# JavaScript Piano
+# Piano
+
+<img width="504" alt="Screen Shot 2021-08-16 at 6 00 41 PM" src="https://user-images.githubusercontent.com/77229281/129639580-746a972a-0271-4a72-b471-17ff8d4503bb.png">
+
 
 ## Live Link
 
