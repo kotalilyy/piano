@@ -1,7 +1,5 @@
 # JavaScript Piano
 
-Play this tiny piano with this app!
-
 ## Live Link
 
 [play](https://kotalilyy.github.io/piano/) 
