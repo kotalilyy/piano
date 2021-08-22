@@ -9,7 +9,9 @@
 
 ## Credits
 
-[Tutorial](https://www.youtube.com/watch?v=vjco5yKZpU8) by @[WebDevSimplified](https://github.com/WebDevSimplified/JavaScript-Piano)
+Click [here](https://www.youtube.com/watch?v=vjco5yKZpU8) to create this piano
+
+Thanks @[WebDevSimplified](https://github.com/WebDevSimplified/JavaScript-Piano)
 
 ## Contributions
 
